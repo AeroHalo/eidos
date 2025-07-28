@@ -140,10 +140,16 @@ Mixed evolution with f_mix = (g_*/g_total)^(1/4) ≈ 0.73
 The entropy field S(k) interpolates between quantum (S=0) and classical (S=1) regimes:
 S(k) = 1/2 [1 + tanh((k - k_t)/(w·k_t))]
 Power spectra are modified as P(k) → P(k) × S²(k), naturally producing observed anomalies.
-📈 Future Tests
-Near-Term Experiments
-ExperimentTimelineEIDOS PredictionSignificanceEuclid20268±1% suppression at k=0.001 h/Mpc8σ detectionCMB-S4202712±2% B-mode enhancement at ℓ~1006σ detectionDESI2025Modified BAO with k-dependent bias4σ detectionNANOGrav202515% GW suppression at nHz3σ detection
-Unique Signatures
+## 📈 Future Tests
+### Near-Term Experiments
+| Experiment | Timeline | EIDOS Prediction | Significance |
+|------------|----------|------------------|--------------|
+| Euclid | 2026 | 8±1% suppression at k=0.001 | h/Mpc8σ detection |
+| CMB-S4 | 2027 | 12±2% B-mode enhancement at ℓ~100 | 6σ detection |
+| DESI | 2025 | Modified BAO with k-dependent bias | 4σ detection |
+| NANOGrav | 2025 | 15% GW suppression at nHz | 3σ detection |
+
+###  Unique Signatures
 The B-mode enhancement at ℓ~100 is predicted only by EIDOS and provides a smoking gun test.
 ## 📝 Citation
 If you use EIDOS in your research, please cite:
