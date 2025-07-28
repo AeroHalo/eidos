@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="eidos-cosmology",
     version="1.0.0",
-    author="EIDOS Collaboration",
-    author_email="contact@eidos-cosmology.org",
+    author="Benjamin P. Duncan",
+    author_email="founder@aerohalo.io",
     description="Emergent Information Dynamics of Observational Spacetime",
     long_description=long_description,
     long_description_content_type="text/markdown",
